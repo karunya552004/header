@@ -1,0 +1,10 @@
+li{
+    display: inline;
+    padding: 20px;
+    color: brown;
+}
+ul{
+    background-color: rosybrown;
+    text-align: center;
+    padding: 20px;
+}
